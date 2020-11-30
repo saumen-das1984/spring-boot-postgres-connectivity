@@ -1,0 +1,5 @@
+INSERT INTO employee (employee_id,employee_name,employee_address,employee_email) VALUES (1,'Saumen','MOUJA DIHIBAHIRI JL NO 436 5','saumen.das@signify.com');
+INSERT INTO employee (employee_id,employee_name,employee_address,employee_email) VALUES (2,'Dhiraj','M R Colony Rajhill Nagar Amravati','dhiraj.gazalwar@signify.com');
+INSERT INTO employee (employee_id,employee_name,employee_address,employee_email) VALUES (3,'Megha','Magarpatta Road Hadapsar Pune','megha.roy@signify.com');
+INSERT INTO employee (employee_id,employee_name,employee_address,employee_email) VALUES (4,'Ayan','Magarpatta Road Hadapsar Pune','ayan.bhattacharya@cooperlighting.com');
+INSERT INTO employee (employee_id,employee_name,employee_address,employee_email) VALUES (5,'Pratik','Magarpatta Road Hadapsar Pune','pratik.patel@cooperlighting.com');
